@@ -5,7 +5,7 @@
 
 Для сбора текста используется BeautifulSoup4. Для озвучивания используется Yandex SpeechKit. Сам бот написан с помощью pyTelegramBotAPI
 
-Также в прогрмамме используются библиотеки subprocess, urlparse, requests, validators
+Также в прогрмамме используются библиотеки subprocess, urlparse, requests, validators, typing
 
 Для использования SpeechKit необходимо:
 
